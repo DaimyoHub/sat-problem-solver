@@ -1,8 +1,0 @@
-lib: [
-  "_build/install/default/lib/sat/META"
-  "_build/install/default/lib/sat/dune-package"
-  "_build/install/default/lib/sat/opam"
-]
-bin: [
-  "_build/install/default/bin/sat"
-]
