@@ -1,4 +1,1 @@
-# Some logic algorithms
-
-- [x] Solve k-SAT for CNF formulas
-- [ ] Transform any formula into a CNF formula
+A simple k-SAT problem solver based on the Quine-McCLuskey method.
